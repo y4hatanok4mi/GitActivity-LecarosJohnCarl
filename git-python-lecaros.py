@@ -1,3 +1,6 @@
 print ("John Carl Lecaros")
 print ("Ino, Mogpog, Marinduque")
 print ("July 17, 2002")
+print ("College of Information and Computer Sciences")
+print ("Bachelor of Science in Information Technology")
+print ("BSI/T - 2B")
